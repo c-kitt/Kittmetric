@@ -77,7 +77,7 @@ function startGame(){
     determineOperations();
     saveAllToLocalStorage();
 
-    window.location.href = "../game/game.html";
+    window.location.href = "game/game.html";
 }
 
 
